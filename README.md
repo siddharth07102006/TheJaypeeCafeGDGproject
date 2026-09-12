@@ -3,11 +3,11 @@ A responsive, modern, and interactive web application designed for **The Jaypee 
 Built using HTML5, CSS3 styling, and JavaScript
 
 # FEATURE
-Fully Responsive Layout
-Table Reservation System
-Warn Aesthetics
-Dynamic Menu
-Essential info and Contact Details
+Fully Responsive Layout<br>
+Table Reservation System<br>
+Warm Aesthetics<br>
+Dynamic Menu<br>
+Essential info and Contact Details<br>
 
 # TECH STACK
 HTML5
